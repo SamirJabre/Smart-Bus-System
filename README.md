@@ -62,9 +62,9 @@
 ### User Screens (Mobile)
 | Login screen  | Register screen | Landing screen | Trips screen |
 | ---| ---| ---| ---|
-| ![Landing](./readme/demo/Login.png) | ![fsdaf](./readme/demo/Register.png) | ![fsdaf](./readme/demo/LandingPage.png) | ![fsdaf](./readme/demo/Trips.png) |
+| ![fsdaf](./readme/demo/Login.png) | ![fsdaf](./readme/demo/Register.png) | ![fsdaf](./readme/demo/LandingPage.png) | ![fsdaf](./readme/demo/Trips.png) |
 | Home screen  | Search Screen | Bus Screen | Booking Screen |
-| ![Landing](./readme/demo/Home2.png) | ![fsdaf](./readme/demo/Search2.png) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| ![fsdaf](./readme/demo/Home2.png) | ![fsdaf](./readme/demo/Search2.png) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
 ### Admin Screens (Web)
 | Login screen  | Register screen |  Landing screen |
