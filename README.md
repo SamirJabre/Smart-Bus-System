@@ -66,12 +66,23 @@
 | Home screen  | Search Screen | Bus Screen | Booking Screen |
 | ![fsdaf](./readme/demo/Home2.png) | ![fsdaf](./readme/demo/Search2.png) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
+
+
+### Driver Screens (Mobile)
+| Login screen  | Application screen | Landing screen | Trips screen |
+| ---| ---| ---| ---|
+| ![fsdaf](./readme/demo/DriverLogin.png) | ![fsdaf](./readme/demo/DriverForm.png) | ![fsdaf](./readme/demo/DriverLandingPage.png) | ![fsdaf](./readme/demo/DriverTrips.png) |
+| Trip Info screen  | 
+| ![fsdaf](./readme/demo/DriverTripInfo.png) |
+
+
+
 ### Admin Screens (Web)
-| Login screen  | Register screen |  Landing screen |
+| Login screen  | Dashboard screen |  Users screen |
 | ---| ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen  | Menu Screen | Order Screen |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/demo/AdminLogin.png) | ![fsdaf](./readme/demo/AdminDashboard.png) | ![fsdaf](./readme/demo/Users.png) |
+| Trip Making screen  |
+| ![Landing](./readme/demo/AdminTripMaking.png) |
 
 <br><br>
 
