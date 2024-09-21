@@ -51,7 +51,7 @@
 
 ### Mockups
 | Home screen  | Search Screen |
-| ---| ---| ---|
+| ---| ---|
 | ![Landing](./readme/demo/Home2.png) | ![Search](./readme/demo/Search2.png) |
 
 <br><br>
@@ -74,14 +74,14 @@
 ### User Screens (Mobile)
 | Landing screen | Register screen | Login screen |
 | ---| ---| ---|
-| ![fsdaf](./readme/demo/LandingPage.png) | ![fsdaf](./readme/demo/Register.png) | ![fsdaf](./readme/demo/login.png) |
+| ![fsdaf](./readme/demo/LandingPage.png) | ![fsdaf](./readme/demo/Register.png) | ![fsdaf](./readme/demo/Login.png) |
 
 | Trips screen | Home screen | Search Screen |
 | ---| ---| ---|
 | ![fsdaf](./readme/demo/Trips.png) | ![fsdaf](./readme/demo/Home2.png) | ![fsdaf](./readme/demo/Search2.png) |
 
 | Bus Screen | Booking Screen | Profile Screen |
-| ---| ---|
+| ---| ---| ---|
 | ![fsdaf](./readme/demo/Bus.png) | ![fsdaf](./readme/demo/Booked.png) | ![fsdaf](./readme/demo/Profile.png) |
 
 ### Driver Screens (Mobile)
