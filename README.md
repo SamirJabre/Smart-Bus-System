@@ -10,9 +10,21 @@
 > The IoT-Based Smart Bus Transportation System aims to transform public transportation by integrating IoT devices and smart technology. Users can track buses in real time, get optimized routes, and manage passenger loads. This project focuses on improving operational efficiency and passenger experience through automation and real-time data.
 
 ### User Stories
-- As a passenger, I want to view the real-time location of the buses, so I can plan my journey efficiently.
-- As a passenger, I want to know the estimated arrival time of the buses, so I can avoid waiting at the bus stop for long periods.
-- As a user, I want to purchase and store digital tickets within the app, so I can board the bus without needing cash or a physical ticket.
+
+#### Customer
+- As a customer, I want to view the real-time location of the bus, so I can know where I am exactly.
+- As a customer, I want to know the estimated arrival time of the buses, so I can know when I'm possibly arriving.
+- As a customer, I want to purchase digital tickets, so I can board the bus without needing cash or a physical ticket.
+
+#### Driver
+- As a driver, I want to update real-time location, so customers can see where they are.
+- As a driver, I want to log my working hours, so I can keep track of my shifts.
+- As a driver, I want to scan customers QR code, so I check if the customer is in the right trip.
+
+#### Admin
+- As an admin, I want to make trips and organize the buses schedules, so I can ensure timely service.
+- As an admin, I want to check drivers applications, and choose whether to approve or reject the driver.
+- As an admin, I want to manage user accounts, so I can keep track of active customers.
 
 <br><br>
 <!-- Tech stack -->
@@ -38,9 +50,9 @@
 
 
 ### Mockups
-| Home screen  | Search Screen | Trips Screen |
+| Home screen  | Search Screen |
 | ---| ---| ---|
-| ![Landing](./readme/demo/Home.png) | ![Search](./readme/demo/Search.png) | ![Trips](./readme/demo/Trips.png) |
+| ![Landing](./readme/demo/Home2.png) | ![Search](./readme/demo/Search2.png) |
 
 <br><br>
 
@@ -60,21 +72,26 @@
 
 
 ### User Screens (Mobile)
-| Login screen  | Register screen | Landing screen | Trips screen |
-| ---| ---| ---| ---|
-| ![fsdaf](./readme/demo/Login.png) | ![fsdaf](./readme/demo/Register.png) | ![fsdaf](./readme/demo/LandingPage.png) | ![fsdaf](./readme/demo/Trips.png) |
-| Home screen  | Search Screen | Bus Screen | Booking Screen |
-| ![fsdaf](./readme/demo/Home2.png) | ![fsdaf](./readme/demo/Search2.png) | ![fsdaf](./readme/demo/Bus.png) | ![fsdaf](./readme/demo/Booked.png) |
+| Landing screen | Register screen | Login screen |
+| ---| ---| ---|
+| ![fsdaf](./readme/demo/LandingPage.png) | ![fsdaf](./readme/demo/Register.png) | ![fsdaf](./readme/demo/login.png) |
 
+| Trips screen | Home screen | Search Screen |
+| ---| ---| ---|
+| ![fsdaf](./readme/demo/Trips.png) | ![fsdaf](./readme/demo/Home2.png) | ![fsdaf](./readme/demo/Search2.png) |
 
+| Bus Screen | Booking Screen | Profile Screen |
+| ---| ---|
+| ![fsdaf](./readme/demo/Bus.png) | ![fsdaf](./readme/demo/Booked.png) | ![fsdaf](./readme/demo/Profile.png) |
 
 ### Driver Screens (Mobile)
-| Login screen  | Application screen | Landing screen | Trips screen |
-| ---| ---| ---| ---|
-| ![fsdaf](./readme/demo/DriverLogin.png) | ![fsdaf](./readme/demo/DriverForm.png) | ![fsdaf](./readme/demo/DriverLandingPage.png) | ![fsdaf](./readme/demo/DriverTrips.png) |
-| Trip Info screen  | 
-| ![fsdaf](./readme/demo/DriverTripInfo.png) |
+| Landing screen  | Login screen | Application screen |
+| ---| ---| ---|
+| ![fsdaf](./readme/demo/DriverLandingPage.png) | ![fsdaf](./readme/demo/DriverLogin.png) | ![fsdaf](./readme/demo/DriverForm.png) |
 
+| Trips screen | Trip Info screen |
+| ---| ---|
+| ![fsdaf](./readme/demo/DriverTrips.png) | ![fsdaf](./readme/demo/DriverTripInfo.png) |
 
 
 ### Admin Screens (Web)
