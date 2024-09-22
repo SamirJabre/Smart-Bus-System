@@ -32,12 +32,22 @@
 
 ###  iBus is built using the following technologies:
 
-- Frontend: The mobile app uses React Native to provide a cross-platform experience on both iOS and Android devices. React Native allows us to create a highly interactive and user-friendly interface with a single codebase
+- Frontend: The mobile app uses React Native to provide a cross-platform experience on both iOS and Android devices. React Native allows us to create a highly interactive and user-friendly interface with a single codebase.
+
 - Backend: The backend API is developed using Laravel, a robust PHP framework that provides RESTful API endpoints for managing data and handling requests efficiently.
-- Database: For persistent storage and efficient data management, the project utilizes MySQL. MySQL handles all the backend data operations, including user data, bus schedules, and real-time tracking information.
+
+- Database: For persistent storage and efficient data management, the project utilizes MySQL. MySQL handles all backend data operations, including user data, bus schedules, and real-time tracking information.
+
 - Real-time Communication: The application uses Socket.io to provide real-time updates for bus locations, route changes, and passenger notifications, ensuring users receive up-to-date information instantly.
-- IoT Integration: The system integrates with various IoT devices such as GPS modules for real-time location tracking, passenger load sensors for monitoring bus capacity.
-- For Admin Panel: The admin panel is made with React js specifically for admins.
+
+- IoT Integration:
+
+    - Seat Detection System: The system includes an Arduino kit using the ESP8266 WiFi module, ultrasonic sensor, and UNO board for real-time detection of someone sitting on the bus seat. This data is sent to the backend, ensuring real-time updates on seat availability.
+    - Bus Tracking: The system integrates GPS modules for real-time location tracking, as well as passenger load sensors for monitoring bus capacity.
+
+- Machine Learning: FastAPI is used to implement a machine learning model for predicting bus arrival times. The model analyzes historical trip data and provides accurate arrival time predictions based on current conditions.
+
+- For Admin Panel: The admin panel is developed using React.js, specifically designed to offer a seamless experience for administrators managing schedules, buses, and routes.
 
 <br><br>
 <!-- UI UX -->
