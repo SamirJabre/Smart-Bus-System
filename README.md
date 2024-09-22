@@ -107,9 +107,14 @@
 <!-- Prompt Engineering -->
 <img src="./readme/title7.svg"/>
 
-###  Intelligent Transportation Management: Enhancing the Efficiency of Public Transit:
+###  Intelligent Transportation Assistant: Enhancing the User experience of Public Tranporation:
 
-- This project leverages cutting-edge IoT integration and data management techniques to optimize the efficiency of public bus transportation systems.
+- This project leverages cutting-edge IoT integration and data management techniques to enhance the experience of public bus transportation users.
+
+###  Smart Assistant with OpenAI Propmt:
+
+- <img src="./readme/demo/prompt.png"/>
+
 
 <br><br>
 
