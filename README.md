@@ -130,17 +130,18 @@
 <!-- Unit Testing -->
 <img src="./readme/title9.svg"/>
 
-###  To ensure the reliability and correctness of the Smart Bus Transportation System, we have implemented a comprehensive suite of unit tests:
+###  Ensuring Backend Integrity: The Role of Unit Testing
 
 - Backend Testing:
 
-    API Endpoints: Each API endpoint in the Laravel backend is tested to ensure correct responses, including success and error cases.
-    Data Validation: Tests are implemented to validate input data for all API routes, ensuring that invalid data is handled gracefully and appropriate error messages are returned.
-    Database Operations: All database interactions, such as CRUD operations for bus schedules, passenger data, and ticket management, are tested to ensure data integrity.
-- Frontend Testing:
+- This project integrates comprehensive unit testing protocols to validate the functionality of backend components. By isolating and testing each unit, we mitigate risks, enhance code reliability, and ensure the backend operates seamlessly under various conditions. This approach allows for early detection and resolution of issues, reinforcing the system's stability.
 
-    Component Testing: Each React Native component is tested for rendering, functionality, and proper handling of props and states.
-    Integration Tests: We test the integration between components, including user flows like real-time bus tracking, ticket purchase, and notification handling.
+###  Test Samples
+
+<img src="./readme/demo/test1.png"/>
+
+
+<img src="./readme/demo/test2.png"/>
 
 <br><br>
 
