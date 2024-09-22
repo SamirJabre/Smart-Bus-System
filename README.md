@@ -173,9 +173,9 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [example](https://example.com)
+1. Get an API Key For the OpenAI
 2. Clone the repo
-   git clone [github](https://github.com/your_username_/Project-Name.git)
+   git clone [github](https://github.com/SamirJabre/Smart-Bus-System.git)
 3. Install NPM packages
    ```sh
    npm install
