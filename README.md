@@ -40,12 +40,14 @@
 
 - Real-time Communication: The application uses Socket.io to provide real-time updates for bus locations, route changes, and passenger notifications, ensuring users receive up-to-date information instantly.
 
+- Firebase: Used firebase storage for Storing the users image and picture and helping for the drivers applications to be done
+
 - IoT Integration:
 
     - Seat Detection System: The system includes an Arduino kit using the ESP8266 WiFi module, ultrasonic sensor, and UNO board for real-time detection of someone sitting on the bus seat. This data is sent to the backend, ensuring real-time updates on seat availability.
     - Bus Tracking: The system integrates GPS modules for real-time location tracking, as well as passenger load sensors for monitoring bus capacity.
 
-- Machine Learning: FastAPI is used to implement a machine learning model for predicting bus arrival times. The model analyzes historical trip data and provides accurate arrival time predictions based on current conditions.
+- FastAPI: FastAPI is used to implement a machine learning model for predicting bus arrival times. The model analyzes historical trip data and provides accurate arrival time predictions based on current conditions.
 
 - For Admin Panel: The admin panel is developed using React.js, specifically designed to offer a seamless experience for administrators managing schedules, buses, and routes.
 
@@ -131,9 +133,11 @@
 <!-- AWS Deployment -->
 <img src="./readme/title8.svg"/>
 
-###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
+###  Efficient Deployment: Unleashing the Potential with AWS Integration:
 
-- This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
+- This project leverages deployment strategies to seamlessly integrate AWS EC2 instance to host Laravel Based web application with SQL database  and deploy natural language processing models. With a focus on scalability, reliability, and performance.
+
+- <img src="./readme/demo/host.png"/>
 
 <br><br>
 
