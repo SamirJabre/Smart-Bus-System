@@ -163,7 +163,15 @@
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Ensure you have the following hardware and software:
+
+- **Arduino UNO board**
+- **ESP8266 Wi-Fi module**
+- **Ultrasonic sensor**
+- **npm** (Node Package Manager)
+- **Composer** (for PHP dependencies)
+
+
 * npm
   ```sh
   npm install npm@latest -g
@@ -171,22 +179,45 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Follow the steps below to install and set up iBus:
 
-1. Get an API Key For the OpenAI
-2. Clone the repo
+
+1. Clone the repo
    git clone [github](https://github.com/SamirJabre/Smart-Bus-System.git)
-3. Install NPM packages
+   ```sh
+   git clone --recurse-submodules https://github.com/SamirJabre/Smart-Bus-System.git
+   ```
+2. For Laravel
+
+   ```sh
+   composer install
+   ```
    ```sh
    npm install
    ```
-4. Install Expo packages
+3. For the React Native
+   ```sh
+   npm install
+   ```
    ```sh
    npx expo install
    ```
-5. To run the app
+4. For the Admin Panel(React js)
+   ```sh
+   npm install
+   ```
+4. To run the app
    ```sh
    npx expo start
+   ```
+   ```sh
+   php artisan serve --host:your_ip_address
+   ```
+   ```sh
+   node server.js
+   ```
+   ```sh
+   python -m uvicorn app:app --reload
    ```
 
 Now, you should be able to run iBus locally and explore its features.
