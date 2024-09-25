@@ -107,11 +107,11 @@
 
 
 ### Admin Screens (Web)
-| Login screen  | Dashboard screen |  Users screen |
-| ---| ---| ---|
-| ![Landing](./readme/demo/AdminLogin.png) | ![fsdaf](./readme/demo/AdminDashboard.png) | ![fsdaf](./readme/demo/Users.png) |
-| Trip Making screen  |
-| ![Landing](./readme/demo/AdminTripMaking.png) |
+| Login screen  | Dashboard screen |
+| ---| ---|
+| ![Landing](./readme/demo/AdminLogin.png) | ![fsdaf](./readme/demo/AdminDashboard.png) |
+| Trip Making screen  |  Users screen |
+| ![Landing](./readme/demo/AdminTripMaking.png) | ![fsdaf](./readme/demo/Users.png) |
 
 <br><br>
 
