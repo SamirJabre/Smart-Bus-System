@@ -92,6 +92,12 @@
 | ---| ---| ---|
 | ![fsdaf](./readme/demo/Trips.png) | ![fsdaf](./readme/demo/Home2.png) | ![fsdaf](./readme/demo/Search2.png) |
 
+
+| Landing Page / Login / Register                              | Booking a Trip                         |
+| ----------------------------------------- | --------------------------------------- |
+| ![Landing Page / Login / Register](./readme/demo/gif1.mp4) | ![Booking a Trip](./readme/demo/gif2.mp4) |
+
+
 | Bus Screen | Booking Screen | Profile Screen |
 | ---| ---| ---|
 | ![fsdaf](./readme/demo/Bus.png) | ![fsdaf](./readme/demo/Booked.png) | ![fsdaf](./readme/demo/Profile.png) |
