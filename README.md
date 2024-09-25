@@ -95,7 +95,7 @@
 
 | Landing Page / Login / Register                              | Booking a Trip                         |
 | ----------------------------------------- | --------------------------------------- |
-| ![Landing Page / Login / Register](./readme/demo/gif1.mp4) | ![Booking a Trip](./readme/demo/gif2.mp4) |
+| ![Landing Page / Login / Register](./readme/demo/gif1.gif) | ![Booking a Trip](./readme/demo/gif2.mp4) |
 
 
 | Bus Screen | Booking Screen | Profile Screen |
